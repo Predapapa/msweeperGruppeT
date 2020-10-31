@@ -10,7 +10,7 @@ import minesweeper.GruppeT.view.View;
 /**
  * Main class for the Minesweeper Game
  * shows a Dialog after Startup to choose the difficulty level
- * @author patri
+ * @author Patrik Balazs
  *
  */
 public class Minesweeper {
